@@ -59,7 +59,9 @@ streamlit run restaurant_billing/ui/main_ui.py
 
 ## 📸 Screenshots
 
-![App Screenshot](https://github.com/ayushxx17/restaurant-billing-app/blob/main/result.png.png)
+## 📸 Screenshot
+
+![App Screenshot](https://github.com/ayushxx17/restaurant-billing-app/blob/main/result.png.png?raw=true)
 
 
 📬 Contact
